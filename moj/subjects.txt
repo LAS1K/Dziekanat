@@ -1,0 +1,9 @@
+0
+Matematyka
+5
+1
+Techniki_Programowania
+7
+2
+Algorytmy
+12
